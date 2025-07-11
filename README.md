@@ -12,7 +12,7 @@
 - **Tools & Platforms: Git, GitHub, VS Code
 
   
-##📬 How to reach me :
+## 📫 Let's Connect
   
 - [LinkedIn](https://www.linkedin.com/in/devanshi-dedaniya-26807b267/)  
 - [Email](mailto:devanshidedaniya007@gmail.com)  
